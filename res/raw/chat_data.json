@@ -1,0 +1,120 @@
+{
+	"data" :
+	[
+		
+        {
+			"user_id" : "3",
+			"username" : "Justin LeClair",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/justin_avatar.png",
+			"message" : "Hi guys how is the new update coming?"
+		},
+		{
+			"user_id" : "4",
+			"username" : "Drew Johnson",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/drew_avatar.png",
+			"message" : "Yeah Justin can I get an update as well?"
+		},
+		{
+			"user_id" : "2",
+			"username" : "Greg Guidone",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/greg_avatar.png",
+			"message" : "Keep me posted..."
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "Well we couldn't get the build out last night, but we are working on it now."
+		},
+		{
+			"user_id" : "3",
+			"username" : "Justin LeClair",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/justin_avatar.png",
+			"message" : "Ok, how long do you think that will take?"
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "Shouldn't take too long. Maybe about 30 more mins."
+		},
+		{
+			"user_id" : "2",
+			"username" : "Greg Guidone",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/greg_avatar.png",
+			"message" : "Alright, can you upload it to TestFlight when you are done?"
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "Sure"
+		},
+		{
+			"user_id" : "4",
+			"username" : "Drew Johnson",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/drew_avatar.png",
+			"message" : "Good news everyone, our app just got featured on the AppStore by Apple!!!"
+		},
+		{
+			"user_id" : "3",
+			"username" : "Justin LeClair",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/justin_avatar.png",
+			"message" : "OH MAN! Everyone gets a raise!"
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "Now we can buy that super huge turtle tank we always wanted!"
+		},
+		{
+			"user_id" : "3",
+			"username" : "Justin LeClair",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/justin_avatar.png",
+			"message" : "And a fog machine! Also new computers for everyone!"
+		},
+		{
+			"user_id" : "2",
+			"username" : "Greg Guidone",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/greg_avatar.png",
+			"message" : "And more snacks for the snack bar?"
+		},
+		{
+			"user_id" : "4",
+			"username" : "Drew Johnson",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/drew_avatar.png",
+			"message" : "Guys...you do realize this doens'nt mean that we all of a sudden have a ton of new money right???"
+		},
+		{
+			"user_id" : "4",
+			"username" : "Drew Johnson",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/drew_avatar.png",
+			"message" : "But...I will consider adding new snacks to the snack area."
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "Builds done!"
+		},
+		{
+			"user_id" : "4",
+			"username" : "Drew Johnson",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/drew_avatar.png",
+			"message" : "Hey, looks like we got a few more programmer tests to grade."
+		},
+		{
+			"user_id" : "3",
+			"username" : "Justin LeClair",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/justin_avatar.png",
+			"message" : "I wonder how well they did on the Chat Section..."
+		},
+		{
+			"user_id" : "1",
+			"username" : "Derrick Xu",
+			"avatar_url" : "http://dev.apppartner.com/AppPartnerProgrammerTest/images/derrick_avatar.png",
+			"message" : "I hope they added a cool bonus to the Animation Section!"
+		}
+	]
+}

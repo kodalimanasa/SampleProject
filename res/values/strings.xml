@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleManasa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="coding_tasks">CODING TASKS</string>
+    <string name="chat">Chat</string>
+    <string name="login">Login</string>
+    <string name="animation">Animation</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+<string name="drag_drop">Click on the image to drag and drop</string>
+   
+</resources>
